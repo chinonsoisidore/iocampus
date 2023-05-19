@@ -1,0 +1,80 @@
+.Iocampus-logo {
+    height: 150px;
+    margin-right: 100px;
+    margin-top: -30px;
+}
+
+.header {
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 100;
+    background-color: white;
+}
+
+          
+
+.overall {display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+} 
+.general {
+    margin-right: 17px;
+}
+
+.overall {
+    position: right;
+    margin-right: 20px;
+}
+
+.background-image{
+      width: 1245px;
+}
+.main-body {
+    display: flex;
+    position: relative;
+}
+
+.write-up {
+    display: flex;
+    flex-direction: column;
+    position:fixed;
+    z-index: 100;
+    bottom: 190px;
+    color: white;
+    width: 500px;
+    margin-left: 360px;
+    
+
+}
+
+.button {
+    background: transparent;
+    color: white;
+    border: 3px solid rgb(244, 86, 19);
+   border-radius: 20px;
+   font-size: 10px;
+   display:inline;
+   width: 150px;
+   height: 32px;
+   justify-content: center;
+   align-items: center;
+  
+}
+
+
+h1{
+    font-size:50px;
+}
+p{margin-left: 100px;}
+
+.button-container {
+    margin-left:80px ;
+}
